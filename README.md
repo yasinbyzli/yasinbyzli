@@ -56,6 +56,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 <details>
  <summary>Summary Goes Here</summary>
 
+### Coding Stats
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
