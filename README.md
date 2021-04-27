@@ -58,7 +58,13 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-
+```text
+JavaScript   14 hrs 16 mins  ██████████████████████▒░░   88.85 % 
+CSS          1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+```
 <!--END_SECTION:waka-->
 
 
