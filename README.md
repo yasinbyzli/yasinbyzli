@@ -62,13 +62,13 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
-Java         15 hrs 21 mins  ████████████████▓░░░░░░░░   66.28 % 
-JavaScript   4 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.18 % 
-SCSS         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Docker       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Java         14 hrs 50 mins  ████████████████▒░░░░░░░░   65.03 % 
+JavaScript   4 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 % 
+SCSS         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Docker       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 <!--END_SECTION:waka-->
 
