@@ -4,9 +4,10 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 :mailbox: Reach me out!
 
+[![Codepen Badge](https://img.shields.io/badge/-yasinbeyazli-34495e?style=flat&labelColor=34495e&logo=codepen&logoColor=white)](https://codepen.io/yasinbyzli)
 [![Twitter Badge](https://img.shields.io/badge/-@beyazl_yasin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beyazl_yasin)](https://twitter.com/beyazl_yasin) 
 [![Linkedin Badge](https://img.shields.io/badge/-YasinBeyazlı-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinbeyazli/) 
-[![Mail Badge](https://img.shields.io/badge/-@yasin_beyazli-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yasin_beyazli) 
+[![Instagram Badge](https://img.shields.io/badge/-@yasin_beyazli-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yasin_beyazli) 
 [![Mail Badge](https://img.shields.io/badge/-yasinbeyazli-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yasinbeyazli29@gmail.com)
 
 - 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
