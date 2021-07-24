@@ -14,7 +14,11 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 - 🔭 I'm currently working to become a Full Stack Developer.
 
+- 📈 I am currently developing myself in spring boot and react areas.
+
 - ⚡ Fun fact: I play football and go to the GYM very often.
+
+- 👀 I am working on fronted components on the codepen platform in my spare time. I left the link above if you want to check it out.
 
 #### Top Technologies
 
