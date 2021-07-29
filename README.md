@@ -71,7 +71,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 #### Profile Visits 
 
-![visitors](https://komarev.com/ghpvc/?username=yasinbyzli&color=green)
+![visitors](https://komarev.com/ghpvc/?username=yasinbyzli&color=blue)
 <details>
  <summary>Summary Goes Here</summary>
 
