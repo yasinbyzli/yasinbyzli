@@ -4,44 +4,67 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 
 :mailbox: Reach me out!
 
-[![Codepen Badge](https://img.shields.io/badge/-yasinbeyazli-34495e?style=flat&labelColor=34495e&logo=codepen&logoColor=white)](https://codepen.io/yasinbyzli)
-[![Twitter Badge](https://img.shields.io/badge/-@beyazl_yasin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beyazl_yasin)](https://twitter.com/beyazl_yasin) 
-[![Linkedin Badge](https://img.shields.io/badge/-YasinBeyazlı-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinbeyazli/) 
-[![Instagram Badge](https://img.shields.io/badge/-@yasin_beyazli-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yasin_beyazli) 
-[![Mail Badge](https://img.shields.io/badge/-yasinbeyazli-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yasinbeyazli29@gmail.com)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yasinbyzli)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yasinbeeyazli)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beyazl_yasin) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinbeyazli/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin_beyazli) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinbeyazli29@gmail.com)
 
 - 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
 
 - 🔭 I'm currently working to become a Full Stack Developer.
 
-- 📈 I am currently developing myself in spring boot and react areas.
+- 📈 I am currently learning **Node.js, React.js, Spring Boot**.
 
-- ⚡ Fun fact: I play football and go to the GYM very often.
+- 💬 Ask me about **Javascript and CSS**.
 
 - 👀 I am working on fronted components on the codepen platform in my spare time. I left the link above if you want to check it out.
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Java Badge](https://img.shields.io/badge/-Java-f39c12?style=for-the-badge&labelColor=black&logo=java&logoColor=f39c12)](#)
-### Tutorials
+[![React Badge](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://tr.reactjs.org/) 
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) 
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/tr/)
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<h4 align="left">Tutorials:</h4>
+<span>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30"/> </a>
+</span>
+<span>
+<a href="https://www.w3schools.com/GIT" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+</span>
+<span>
+<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="30" height="30"/> </a>
+</span>
+<span>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="30" height="30"/> </a>
+</span>
+<span>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/> </a>
+</span>
+<span>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/> </a>
+</span>
+<span>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="http://monarchtechnologiesinc.com/assets/images/icons/technologies/logo-css3.png" alt="html" width="35" height="35"/> </a>
+</span>
+<span>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="html" width="30" height="30"/> </a>
+</span>
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<br/>
+<h4 align="left">Tools:</h4>
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
+<a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
+<a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
+<a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <br />
 <br />
