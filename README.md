@@ -81,7 +81,7 @@ I'm Yasin Beyazlı, I'm developing myself as a full stack developer.
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2021 - 21 August, 2021
+Week: 16 August, 2021 - 22 August, 2021
 
 JavaScript   3 hrs 29 mins   █████████████████████▓░░░   86.70 % 
 JSX          21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
